@@ -14,8 +14,53 @@ The designers were missing from the meeting in which we decided on the logo, so 
 ## Members
 
 ### Hanzheng Li
+![image](./han.jpg)
 * Major: CS
 * Subteam: iOS
 * Fun fact: I dream in black & white
 * Sp21 pod: Food
+
+### Neha Malepati
+![](./neha.jpg)
+* Major: CS
+* Subteam: Marketing
+* Fun fact: favorite Shark Tank product is the Scrub Daddy
+* Sp21 pod: Flagship
+
+### Corwin Zhang
+![](./corwin.jpg)
+* Major: CS
+* Subteam: Android
+* Fun fact: I almost died when I attempted to jump off a porch using an umbrella as a makeshift parachute
+* Sp21 pod: Food
+
+### Noah Solomon
+![](./noahs.jpg)
+* Major: CS
+* Minor: Business
+* Subteam: Backend
+* Fun fact: I love to cook, tacos are my favorite
+* Sp21 pod: Pear
+
+### Gordon Tran
+![](./gordon.jpg)
+* Major: Information Science
+* Subteam: Marketing
+* Fun fact: I've had my art put up in a museum before!
+* Sp21 pod: Food
+
+### Jonna Chen
+![](./jonna.jpg)
+* Major: CS
+* Subteam: Marketing
+* Fun fact: I've been to Mt. Everest before (but not the summit lol)
+* Sp21 pod: Volume
+
+### Noah Pikielny
+![](./noahp.jpg)
+* Major: CS
+* Minor: Marine Biology
+* Subteam: iOS
+* Fun fact: I have a pet sea cucumber
+* Sp21 pod: Flagship
 
