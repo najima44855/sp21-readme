@@ -13,7 +13,7 @@ The designers were missing from the meeting in which we decided on the logo, so 
 
 ## Members
 
-### Hanzheng Li
+### Hanzheng (Han) Li
 
 <img src="./han.jpg" alt="han" width="300"/>
 
