@@ -98,7 +98,7 @@ The designers couldn't make it to the meeting in which we decided on the logo, s
 
 ### Shungo Najima
 
-<img src="./shungo.jpg" alt="shungo" width="300"/>
+<img src="./shungo.JPG" alt="shungo" width="300"/>
 
 * Major: Information Science
 * Subteam: Backend
