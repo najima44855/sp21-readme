@@ -53,19 +53,19 @@ The designers couldn't make it to the meeting in which we decided on the logo, s
 
 <img src="./kate.jpg" alt="kate" width="300"/>
 
-* Major: 
-* Subteam: 
-* Fun fact:
-* Sp21 pod: 
+* Major: CS
+* Subteam: Backend
+* Fun fact: I've lived in Texas my whole life but have never tried Whataburger lol
+* Sp21 pod: Flagship
 
 ### Lia Chandra
 
 <img src="./lia.jpg" alt="lia" width="300"/>
 
-* Major: 
-* Subteam:
-* Fun fact:
-* Sp21 pod:
+* Major: Information Science
+* Subteam: Design
+* Fun fact: I once capsized inside of the Bermuda Triangle
+* Sp21 pod: Flagship
 
 ### Neha Malepati
 
@@ -100,16 +100,16 @@ The designers couldn't make it to the meeting in which we decided on the logo, s
 
 <img src="./shungo.jpg" alt="shungo" width="300"/>
 
-* Major: 
-* Subteam:
-* Fun fact:
-* Sp21 pod: 
+* Major: Information Science
+* Subteam: Backend
+* Fun fact: I almost went to college for baseball
+* Sp21 pod: Food
 
 ### Zixian (Jason) Jia
 
 <img src="./jason.jpg" alt="jason" width="300"/>
 
-* Major: 
-* Subteam: 
-* Fun fact:
-* Sp21 pod: 
+* Major: Information Science
+* Subteam: Design
+* Fun fact: I write with my left hand and everything (paint, throw) with my right
+* Sp21 pod: Volume
